@@ -14,10 +14,10 @@
 */
 
 export const gameDetails = {   
-    title: 'Z Game'
+    title: 'Z Game',
     desc: 'we are in the first of four rooms... there is a door out of here in the fourth room. It\'s locked. We do not have the key.  we\'ll walk through each room... we\'ll use the commands to interact within the rooms to find the key that unlock the door',
     author: 'JM',
-    cohort: 'May 2023'
+    cohort: 'May 2023',
     startingRoomDescription: "You open your eyes. You can't see anything. ...",
     playerCommands: [
         // replace these with your games commands as needed
