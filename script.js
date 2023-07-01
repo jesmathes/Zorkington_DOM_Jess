@@ -14,14 +14,14 @@
 */
 
 export const gameDetails = {   
-    title: 'Game Title',
-    desc: 'Welcome to the world of... here are some quick rules & concepts...',
-    author: 'Student Name',
-    cohort: 'SBPT-2022',
-    startingRoomDescription: 'What you see before you is...',
+    title: 'Z Game'
+    desc: 'we are in the first of four rooms... there is a door out of here in the fourth room. It\'s locked. We do not have the key.  we\'ll walk through each room... we\'ll use the commands to interact within the rooms to find the key that unlock the door',
+    author: 'JM',
+    cohort: 'May 2023'
+    startingRoomDescription: "You open your eyes. You can't see anything. ...",
     playerCommands: [
         // replace these with your games commands as needed
-        'inspect', 'view', 'look', 'pickup',
+        'inspect', 'view', 'look', 'pickup', 'put back', 'help', 'go', 
     ]
     // Commands are basic things that a player can do throughout the game besides possibly moving to another room. This line will populate on the footer of your game for players to reference. 
     // This shouldn't be more than 6-8 different commands.
